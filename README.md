@@ -24,7 +24,7 @@
 - **运行环境**: PHP 8.0+ (推荐 8.1), Nginx
 - **前端框架**: UniApp (Vue.js)
 
-- **Telegram**: 商用源码请联系 [@Bannedoo](https://t.me/Bannedoo)
+## Telegram: 商用源码请联系 [@Bannedoo](https://t.me/Bannedoo)
 
 ---
 
@@ -48,4 +48,4 @@
 
 ---
 
-- **Telegram**: 商用源码请联系 [@Bannedoo](https://t.me/Bannedoo)
+## Telegram: 商用源码请联系 [@Bannedoo](https://t.me/Bannedoo)
